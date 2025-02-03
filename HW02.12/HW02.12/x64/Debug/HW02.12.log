@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\NItro\source\repos\HW02.12\HW02.12\Source.cpp(22,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NItro\source\repos\HW02.12\HW02.12\Source.cpp(24,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  HW02.12.vcxproj -> C:\Users\NItro\source\repos\HW02.12\x64\Debug\HW02.12.exe
